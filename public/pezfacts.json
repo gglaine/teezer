@@ -1,41 +1,49 @@
 [
     {
       "id": 1,
+      "emoji": "🌿",
       "title": "The Origin of 'PEZ'",
       "fact": "The name 'PEZ' comes from the German word 'Pfefferminz,' which means 'peppermint,' the original flavor of PEZ candies. It's derived from the first, middle, and last letters of 'Pfefferminz'."
     },
     {
       "id": 2,
+      "emoji": "🧱",
       "title": "PEZ Candy Bricks",
       "fact": "PEZ candies are uniquely shaped like bricks, measuring 15mm in length, 8mm in width, and 5mm in height."
     },
     {
       "id": 3,
+      "emoji": "🎖️",
       "title": "A Collector's Delight",
       "fact": "PEZ dispensers have become a part of pop culture and are collected worldwide, especially in the United States."
     },
     {
       "id": 4,
+      "emoji": "🏰",
       "title": "PEZ's Humble Beginnings",
       "fact": "PEZ was created by Eduard Haas III in Vienna in 1927, and the first dispenser was introduced in 1949."
     },
     {
-   "id": 5,
+      "id": 5,
+      "emoji": "🇺🇸",
       "title": "PEZ Goes to America",
       "fact": "PEZ entered the American market in 1953 and signed their first licensing contract with Disney Enterprises in 1962."
     },
     {
       "id": 6,
+      "emoji": "🌎",
       "title": "Beyond Candy",
       "fact": "PEZ dispensers often feature characters from various animation studios, particularly Disney, but there are also regional variations like American football or NASCAR."
     },
     {
       "id": 7,
+      "emoji": "🐶",
       "title": "PEZ for Pets",
       "fact": "There are even PEZ toys for dogs that operate on the same principle as the dispensers for humans."
     },
     {
       "id": 8,
+      "emoji": "🍫",
       "title": "PEZ Flavors",
       "fact": "While PEZ offers a variety of flavors, classic flavors include chocolate, cola, and various fruits. There are also strong flavors like watermelon and green apple, and even sugar-free options."
     }
